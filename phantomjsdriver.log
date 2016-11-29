@@ -1,0 +1,16 @@
+[INFO  - 2016-10-28T06:53:49.002Z] GhostDriver - Main - running on port 25946
+[INFO  - 2016-10-28T06:53:49.738Z] Session [47c40b60-9cdb-11e6-a67b-0da8f354c0c2] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-28T06:53:49.738Z] Session [47c40b60-9cdb-11e6-a67b-0da8f354c0c2] - page.customHeaders:  - {}
+[INFO  - 2016-10-28T06:53:49.739Z] Session [47c40b60-9cdb-11e6-a67b-0da8f354c0c2] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-28T06:53:49.739Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 47c40b60-9cdb-11e6-a67b-0da8f354c0c2
+[INFO  - 2016-10-28T06:58:49.229Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-28T07:03:49.262Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-28T07:08:49.262Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-28T07:13:49.293Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+b-11e6-a4d8-1f3603f66adf] - page.customHeaders:  - {}
+[INFO  - 2016-10-28T06:54:32.893Z] Session [617cab70-9cdb-11e6-a4d8-1f3603f66adf] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-28T06:54:32.894Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 617cab70-9cdb-11e6-a4d8-1f3603f66adf
+[INFO  - 2016-10-28T06:59:32.164Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-28T07:04:32.194Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-28T07:09:32.194Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-28T07:14:32.226Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW

@@ -1,0 +1,14 @@
+﻿<suite name="Selenium Grid Demo">
+  <test name="On chrome">
+   <parameter name="browser"  value="chrome"/>
+    <classes>
+      <class name="day25.DropdownOnGrid"/>
+    </classes>
+  </test> 
+  <test name="On firefox">
+   <parameter name="browser"  value="firefox"/>
+    <classes>
+      <class name="day25.DropdownOnGrid"/>
+    </classes>
+  </test>
+</suite> 

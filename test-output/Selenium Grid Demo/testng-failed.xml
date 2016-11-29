@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Selenium Grid Demo]" parallel="tests">
+  <parameter name="browser" value="chrome"/>
+  <test name="On firefox(failed)" parallel="tests">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="day26.ScreenshotOnGrid">
+        <methods>
+          <include name="screenshotTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- day26.ScreenshotOnGrid -->
+    </classes>
+  </test> <!-- On firefox(failed) -->
+  <test name="On safari(failed)" parallel="tests">
+    <parameter name="browser" value="safari"/>
+    <classes>
+      <class name="day26.ScreenshotOnGrid">
+        <methods>
+          <include name="screenshotTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- day26.ScreenshotOnGrid -->
+    </classes>
+  </test> <!-- On safari(failed) -->
+</suite> <!-- Failed suite [Selenium Grid Demo] -->

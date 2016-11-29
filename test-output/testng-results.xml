@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63370" started-at="2016-11-29T06:06:56Z" finished-at="2016-11-29T06:08:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63370" started-at="2016-11-29T06:06:56Z" finished-at="2016-11-29T06:08:00Z">
+      <class name="day20.testsuite.DeleteEmployee">
+        <test-method status="PASS" signature="deleteEmpTest()[pri:0, instance:day20.testsuite.DeleteEmployee@782be20e]" name="deleteEmpTest" duration-ms="30458" started-at="2016-11-28T22:07:28Z" finished-at="2016-11-28T22:07:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmpTest -->
+      </class> <!-- day20.testsuite.DeleteEmployee -->
+      <class name="day20.testsuite.AddEmployee">
+        <test-method status="PASS" signature="addEmpTest()[pri:0, instance:day20.testsuite.AddEmployee@3bfa3fa9]" name="addEmpTest" duration-ms="7136" started-at="2016-11-28T22:07:21Z" finished-at="2016-11-28T22:07:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmpTest -->
+      </class> <!-- day20.testsuite.AddEmployee -->
+      <class name="day20.testsuite.Login">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:day20.testsuite.Login@727dcc23]" name="loginTest" duration-ms="24863" started-at="2016-11-28T22:06:56Z" finished-at="2016-11-28T22:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- day20.testsuite.Login -->
+      <class name="day20.testsuite.Logout">
+        <test-method status="PASS" signature="logoutTest()[pri:0, instance:day20.testsuite.Logout@2a698f02]" name="logoutTest" duration-ms="787" started-at="2016-11-28T22:07:59Z" finished-at="2016-11-28T22:08:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+      </class> <!-- day20.testsuite.Logout -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
